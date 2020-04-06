@@ -1,0 +1,7 @@
+{
+  "name": "powerapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
